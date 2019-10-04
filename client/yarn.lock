@@ -3941,9 +3941,10 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
-"jsqr@git+https://github.com/cozmo/jsQR.git":
-  version "0.2.2"
-  resolved "git+https://github.com/cozmo/jsQR.git#397a6eb8f90752cf640cb4bb67ba6f86e3bb5d1f"
+"jsqr@https://github.com/cozmo/jsQR.git":
+  version "1.2.0"
+  uid "01d3b0a3889b6da02486ea5c26e5bfaaa268d61a"
+  resolved "https://github.com/cozmo/jsQR.git#01d3b0a3889b6da02486ea5c26e5bfaaa268d61a"
 
 jsx-ast-utils@^1.4.0, jsx-ast-utils@^1.4.1:
   version "1.4.1"
@@ -5279,9 +5280,9 @@ react-dev-utils@^4.1.0:
     strip-ansi "3.0.1"
     text-table "0.2.0"
 
-react-dom@^16.0.0:
-  version "16.2.0"
-  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.2.0.tgz#69003178601c0ca19b709b33a83369fe6124c044"
+react-dom@^16.2.1:
+  version "16.2.1"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.2.1.tgz#5cfb32f66267ece7b3850466bf3b219d4911fc1a"
   dependencies:
     fbjs "^0.8.16"
     loose-envify "^1.1.0"
