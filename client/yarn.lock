@@ -3941,9 +3941,10 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
-"jsqr@git+https://github.com/cozmo/jsQR.git":
-  version "0.2.2"
-  resolved "git+https://github.com/cozmo/jsQR.git#397a6eb8f90752cf640cb4bb67ba6f86e3bb5d1f"
+"jsqr@https://github.com/cozmo/jsQR.git":
+  version "1.2.0"
+  uid "01d3b0a3889b6da02486ea5c26e5bfaaa268d61a"
+  resolved "https://github.com/cozmo/jsQR.git#01d3b0a3889b6da02486ea5c26e5bfaaa268d61a"
 
 jsx-ast-utils@^1.4.0, jsx-ast-utils@^1.4.1:
   version "1.4.1"
@@ -4130,8 +4131,8 @@ lru-cache@^4.0.1:
     yallist "^2.1.2"
 
 macaddress@^0.2.8:
-  version "0.2.8"
-  resolved "https://registry.yarnpkg.com/macaddress/-/macaddress-0.2.8.tgz#5904dc537c39ec6dbefeae902327135fa8511f12"
+  version "0.2.9"
+  resolved "https://registry.yarnpkg.com/macaddress/-/macaddress-0.2.9.tgz#3579b8b9acd5b96b4553abf0f394185a86813cb3"
 
 make-dir@^1.0.0:
   version "1.1.0"
