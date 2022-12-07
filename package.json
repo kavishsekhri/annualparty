@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "axios": "^0.17.1",
-    "express": "^4.15.4",
+    "express": "^4.17.3",
     "mysql2": "^1.5.1",
     "sequelize": "^4.22.15",
     "socket.io": "^2.0.4"
