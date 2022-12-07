@@ -3941,9 +3941,10 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
-"jsqr@git+https://github.com/cozmo/jsQR.git":
-  version "0.2.2"
-  resolved "git+https://github.com/cozmo/jsQR.git#397a6eb8f90752cf640cb4bb67ba6f86e3bb5d1f"
+"jsqr@https://github.com/cozmo/jsQR.git":
+  version "1.4.0"
+  uid "8e6a036beafa7053dd44b1b76ac578d22b1b3311"
+  resolved "https://github.com/cozmo/jsQR.git#8e6a036beafa7053dd44b1b76ac578d22b1b3311"
 
 jsx-ast-utils@^1.4.0, jsx-ast-utils@^1.4.1:
   version "1.4.1"
@@ -5188,8 +5189,8 @@ qs@6.5.1, qs@~6.5.1:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.1.tgz#349cdf6eef89ec45c12d7d5eb3fc0c870343a6d8"
 
 qs@~6.4.0:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.0.tgz#13e26d28ad6b0ffaa91312cd3bf708ed351e7233"
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.1.tgz#2bad97710a5b661c366b378b1e3a44a592ff45e6"
 
 query-string@^4.1.0:
   version "4.3.4"
